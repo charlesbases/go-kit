@@ -1,0 +1,9 @@
+[submodule "plugins/mysql-gen-go"]
+	path = plugins/mysql-gen-go
+	url = https://github.com/charlesbases/mysql-gen-go.git
+[submodule "plugins/protoc-gen-grpc"]
+	path = plugins/protoc-gen-grpc
+	url = https://github.com/charlesbases/protoc-gen-grpc.git
+[submodule "plugins/protoc-gen-doc"]
+	path = plugins/protoc-gen-doc
+	url = https://github.com/charlesbases/protoc-gen-doc.git
